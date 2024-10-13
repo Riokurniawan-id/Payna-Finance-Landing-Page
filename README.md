@@ -1,7 +1,3 @@
-Berikut adalah README yang diperbarui untuk **Payna Finance**, yang saat ini merupakan landing page:
-
----
-
 # Payna Finance - Landing Page
 
 **Payna Finance** adalah landing page untuk sebuah platform pengelolaan payroll yang dirancang untuk membantu bisnis dalam mengatur penggajian dengan mudah, tanpa memerlukan keahlian finansial yang mendalam.
